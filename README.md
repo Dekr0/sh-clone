@@ -8,6 +8,10 @@ directory (e.g, `/usr/bin`).
 - You can view `sh-clone` as a TUI processes (view as tasks) launcher with some 
 utilities to manage all the processes launched under `sh-clone`.
 
+## Compile
+
+- run `make starter` to compile `sh-clone` executable
+
 ## Usage
 
 - `cdir {path}` - change the current working directory of `sh-clone` to `path`
